@@ -1,0 +1,41 @@
+body{
+    color: rgb(181, 38, 90);
+    font-family: avenir;
+    margin: 140px
+}
+div{
+    min-height: 40vh;
+    width: 40vw;
+}
+h1, h2 {
+    text-align: center;
+}
+h1{
+    font-size: 4em;
+}
+h2{
+    font-size: 2em;
+}
+img {
+    display: flex;
+    padding: 20px;
+  margin: 0 auto;
+    border-radius: 130px;
+}
+a {
+    color: rgb(63, 31, 10);
+}
+ol {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 10%;
+    font-size: 4em;
+    display: flex;
+    justify-content: space-evenly;
+}
+li#lower {
+  margin-top: 7%;
+}
+li#lowest {
+  margin-bottom: 14%
+}
